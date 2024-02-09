@@ -1,0 +1,1 @@
+package com.ll.exam.app10.API;import org.springframework.data.jpa.repository.JpaRepository;public interface Mp3Repo extends JpaRepository<Mp3File,Long> {}
